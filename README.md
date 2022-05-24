@@ -1,4 +1,6 @@
+<center>
 ### Hello 👋, I'm Anele Sokwane
+</center>
 <hr>
 <h3 align="center">A passionate frontend developer from Cape Town</h3>
 
