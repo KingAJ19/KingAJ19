@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Game Development and C#
 - 💻 Check out my portfolio ➡ [https://anele-sokwane-portfolio.netlify.app/](https://anele-sokwane-portfolio.netlify.app/)
 - 📽 My Youtube Channel ➡ [https://www.youtube.com/c/AneleSokwane](https://www.youtube.com/c/AneleSokwane)
-- 💬 Ask me about <b>Anything</b>
+- 💬 Ask me about <b>nothing</b>
 - 📫 How to reach me: **anelesokwane@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: <b>Goku</b>
