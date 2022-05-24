@@ -7,5 +7,4 @@
 - 📽 My Youtube Channel ➡ [https://www.youtube.com/c/AneleSokwane](https://www.youtube.com/c/AneleSokwane)
 - 💬 Ask me about <b>stuff</b>
 - 📫 How to reach me: **anelesokwane@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: <b>Goku</b>
+- ⚡ Fun fact: I love <i>anime</i>
