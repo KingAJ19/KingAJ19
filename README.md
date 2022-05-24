@@ -1,5 +1,5 @@
 <h2 align="center"> Hello 👋, I'm Anele Sokwane</h3>
-<h3 align="center">A passionate frontend developer from Cape Town</h3>
+<h3 align="center">Web Developer, Content Creator and Game Developer</h3>
 
 
 
