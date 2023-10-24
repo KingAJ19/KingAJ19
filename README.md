@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Game Development and C#
 - 💻 Check out my portfolio ➡ [https://anele-sokwane-portfolio.netlify.app/](https://anele-sokwane-portfolio.netlify.app/)
 - 📲 My LinkedIn ➡ [https://www.linkedin.com/in/anele-sokwane/](https://www.linkedin.com/in/anele-sokwane/)
-- 📽 My Youtube Channel ➡ [https://www.youtube.com/c/AneleSokwane](https://www.youtube.com/c/AneleSokwane)
-- 💬 Ask me about <b>nothing</b>
 - 📫 How to reach me: **aneleuchiha000@gmail.com**
 - ⚡ Fun fact: I love <i>anime</i>
 <h3 align="left">Tools and Languages:</h3>
