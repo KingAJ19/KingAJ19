@@ -2,7 +2,7 @@
 <h3 align="center">Junior Web Developer</h3>
 
 
-- 🌱 I’m currently learning Game Development and C#
+- 🌱 I’m currently learning Game Development and Godot
 - 💻 Check out my portfolio ➡ [https://anele-sokwane-portfolio.netlify.app/](https://anele-sokwane-portfolio.netlify.app/)
 - 📲 My LinkedIn ➡ [https://www.linkedin.com/in/anele-sokwane/](https://www.linkedin.com/in/anele-sokwane/)
 - 📫 How to reach me: **aneleuchiha000@gmail.com**
